@@ -1,6 +1,6 @@
 using System;
 // paste into main method
     {
-      Console.WriteLine(“hello, all you beautiful people out there in Software Development!”);
+      Console.WriteLine(“hello, all you wonderful students!”);
     }
   
